@@ -1,0 +1,1 @@
+print("Fruites:\n\tBanana\n\tOrange\n\tMango\n\tGuava");
